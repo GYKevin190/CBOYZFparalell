@@ -4,7 +4,8 @@
 
 int main() {
     int n, i, even_count = 0, odd_count = 0, zero_count = 0, pos_count = 0, neg_count = 0, abs_count = 0, interval_count = 0;
-    float* arr, interval_min, interval_max;
+    float* arr;
+    int interval_min, interval_max;
     
     srand(time(0)); 
     
@@ -14,10 +15,14 @@ int main() {
     interval_max=5;
     
     arr = (float*) malloc(n * sizeof(float)); 
-    
+    float lower_bound = -4.0;
+    float upper_bound = 5.0;
+    float range = upper_bound - lower_bound;
     
     for (i = 0; i < n; i++) {
-        arr[i] = (float)(rand() % 100 - 50) / 10; 
+        float random_num = (float) rand() / RAND_MAX;
+        float scaled_num = (random_num * range) + lower_bound;
+        arr[i] = scaled_num; 
     }
     
   
@@ -49,6 +54,11 @@ int main() {
         if (arr[i] >= interval_min && arr[i] <= interval_max) {
             interval_count++;
         }
+    }
+
+    printf("The elements of the array are the followings:");
+    for(int k=0; k<n;k++){
+        printf("%.2lf\n" ,arr[k]);
     }
     
     printf("Even numbers: %d\n", even_count);
