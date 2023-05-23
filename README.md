@@ -13,7 +13,7 @@ Blackjack játék szimulálása, a következőképpen külön-külön projektekb
 
 **A programok futási idejének összehasonlítása**
 1. A szálak számának
-2. A generálandó 21-es leosztásoknak
+2. A generálandó 21-es leosztásoknak  
 **függvénnyében**  
   
 **A program leírása:**  
