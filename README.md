@@ -1,4 +1,5 @@
 
+
 ***Beadandó feladat:***
 
 Blackjack játék szimulálása, a következőképpen külön-külön projektekbe (header fileokkal):
@@ -12,8 +13,8 @@ Blackjack játék szimulálása, a következőképpen külön-külön projektekb
 4.    C#-ban Task Parallel Library segítségével megvalósítva
 
 **A programok futási idejének összehasonlítása**
-1. A szálak számának
-2. A generálandó 21-es leosztásoknak  
+5. A szálak számának
+6. A generálandó 21-es leosztásoknak  
 **függvénnyében**  
   
 **A program leírása:**  
