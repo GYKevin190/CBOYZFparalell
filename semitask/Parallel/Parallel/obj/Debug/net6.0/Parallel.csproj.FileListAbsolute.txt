@@ -1,0 +1,30 @@
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\bin\Debug\net6.0\Parallel.exe
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\bin\Debug\net6.0\Parallel.deps.json
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\bin\Debug\net6.0\Parallel.runtimeconfig.json
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\bin\Debug\net6.0\Parallel.dll
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\bin\Debug\net6.0\Parallel.pdb
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\obj\Debug\net6.0\Parallel.csproj.AssemblyReference.cache
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\obj\Debug\net6.0\Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\obj\Debug\net6.0\Parallel.AssemblyInfoInputs.cache
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\obj\Debug\net6.0\Parallel.AssemblyInfo.cs
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\obj\Debug\net6.0\Parallel.csproj.CoreCompileInputs.cache
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\obj\Debug\net6.0\Parallel.dll
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\obj\Debug\net6.0\refint\Parallel.dll
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\obj\Debug\net6.0\Parallel.pdb
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\obj\Debug\net6.0\Parallel.genruntimeconfig.cache
+C:\Users\gyani\OneDrive\Asztali gép\TestTorolniKell\Parallel\Parallel\obj\Debug\net6.0\ref\Parallel.dll
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\bin\Debug\net6.0\Parallel.exe
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\bin\Debug\net6.0\Parallel.deps.json
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\bin\Debug\net6.0\Parallel.runtimeconfig.json
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\bin\Debug\net6.0\Parallel.dll
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\bin\Debug\net6.0\Parallel.pdb
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\obj\Debug\net6.0\Parallel.csproj.AssemblyReference.cache
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\obj\Debug\net6.0\Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\obj\Debug\net6.0\Parallel.AssemblyInfoInputs.cache
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\obj\Debug\net6.0\Parallel.AssemblyInfo.cs
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\obj\Debug\net6.0\Parallel.csproj.CoreCompileInputs.cache
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\obj\Debug\net6.0\Parallel.dll
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\obj\Debug\net6.0\refint\Parallel.dll
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\obj\Debug\net6.0\Parallel.pdb
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\obj\Debug\net6.0\Parallel.genruntimeconfig.cache
+C:\Egyetem\ParAlgh\beadando\Parallel\Parallel\obj\Debug\net6.0\ref\Parallel.dll
