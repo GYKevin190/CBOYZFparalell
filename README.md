@@ -15,7 +15,7 @@ Blackjack játék szimulálása, a következőképpen külön-külön projektekb
 1. A szálak számának
 2. A generálandó 21-es leosztásoknak
 **függvénnyében**
-**A program leírása:**
+**A program leírása:**  
 
 Kétszer generálok 2től 11ig számokat, szimulálva a laphúzást és lemérem hogy hány leosztásból generál ki pontosan 21-et. 
 
